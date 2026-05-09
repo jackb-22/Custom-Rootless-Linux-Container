@@ -483,6 +483,3 @@ Zookeeper demonstrates practical use of several Linux systems programming concep
 Zookeeper is a rootless container runtime implemented from scratch in C. It builds isolated process environments using the same Linux primitives that power modern container engines, including namespaces, cgroups, capabilities, seccomp, and root filesystem pivoting.
 
 The project emphasizes low-level systems programming and container internals. It demonstrates how a runtime can create a secure, resource-limited, and isolated execution environment without relying on a privileged daemon or high-level container framework.
-
-```
-```
